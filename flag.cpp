@@ -1,5 +1,4 @@
-//Experiment :- 8 
-//Develop a menu driven program to animate a flag using Bezier Curve algorith
+
 
 #include<GL/glut.h>
 #include<math.h>
